@@ -7,4 +7,3 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Robot is working!"
-      - run: exit 1
